@@ -3,3 +3,4 @@ Django
 channels
 daphne
 channels-redis
+requests
