@@ -4,3 +4,4 @@ channels
 daphne
 channels-redis
 requests
+psycopg2-binary
